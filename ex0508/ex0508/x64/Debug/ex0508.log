@@ -1,0 +1,17 @@
+﻿  ex0508.cpp
+D:\CS24722001\ex0508\ex0508.cpp(11,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      D:\CS24722001\ex0508\ex0508.cpp(11,10):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      D:\CS24722001\ex0508\ex0508.cpp(11,10):
+      缺失的可变参数 2 为格式字符串“%c”所需
+      D:\CS24722001\ex0508\ex0508.cpp(11,10):
+      此参数用作缓冲区大小
+  
+D:\CS24722001\ex0508\ex0508.cpp(29,15): warning C4305: “=”: 从“double”到“float”截断
+D:\CS24722001\ex0508\ex0508.cpp(32,15): warning C4305: “=”: 从“double”到“float”截断
+D:\CS24722001\ex0508\ex0508.cpp(35,15): warning C4305: “=”: 从“double”到“float”截断
+D:\CS24722001\ex0508\ex0508.cpp(40,15): warning C4305: “=”: 从“double”到“float”截断
+D:\CS24722001\ex0508\ex0508.cpp(43,15): warning C4305: “=”: 从“double”到“float”截断
+D:\CS24722001\ex0508\ex0508.cpp(46,15): warning C4305: “=”: 从“double”到“float”截断
+D:\CS24722001\ex0508\ex0508.cpp(49,15): warning C4305: “=”: 从“double”到“float”截断
+  ex0508.vcxproj -> D:\CS24722001\ex0508\x64\Debug\ex0508.exe
